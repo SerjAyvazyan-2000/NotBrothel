@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+.icon {
+    display: inline-block;
+    height: 1em;
+    width: 1em;
+    mask-size: contain;
+    -webkit-mask-size: contain;
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+    mask-position: center;
+    -webkit-mask-position: center;
+}
+
+.icon-corporation {
+    mask-image: url(./cooperation.svg);
+    -webkit-mask-image: url(./cooperation.svg);
+}
+.icon-steps{
+    mask-image: url(./cooperation.svg);
+    -webkit-mask-image: url(./cooperation.svg);
+}
+.icon-phone{
+    mask-image: url(./phone.svg);
+    -webkit-mask-image: url(./phone.svg);
+}
+
+.icon-polygon{
+    mask-image: url(./polygon.svg);
+    -webkit-mask-image: url(./polygon.svg);
+}
+.icon-demand{
+    mask-image: url(./demand.svg);
+    -webkit-mask-image: url(./demand.svg);
+}

@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "Gilroy";
+    src: url('Gilroy-Regular.woff');
+    src: local('Gilroy-Regular.woff'), local('Gilroy'),
+    url('Gilroy-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Gilroy";
+    src: url('Gilroy-Light.woff');
+    src: local('Gilroy-Light.woff'), local('Gilroy'),
+    url('Gilroy-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Oswald";
+    src: url('Oswald-Regular.woff');
+    src: local('Oswald-Regular.woff'), local('Oswald'),
+    url('Oswald-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gilroy";
+    src: url('Gilroy-Medium (1).woff');
+    src: local('Gilroy-Medium (1).woff'), local('Gilroy'),
+    url('Gilroy-Medium (1).woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: "Gilroy";
+    src: url('Gilroy-SemiBold.woff');
+    src: local('Gilroy-SemiBold.woff'), local('Gilroy'),
+    url('Gilroy-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Gilroy";
+    src: url('Gilroy-Bold.woff');
+    src: local('Gilroy-Bold.woff'), local('Gilroy'),
+    url('Gilroy-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "FM Bolyar Pro";
+    src: url('FMBolyarPro-500.woff');
+    src: local('FMBolyarPro-500.woff'), local('FM Bolyar Pro'),
+    url('FMBolyarPro-500.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "FM Bolyar Pro";
+    src: url('FMBolyarPro-700.woff');
+    src: local('FMBolyarPro-700.woff'), local('FM Bolyar Pro'),
+    url('FMBolyarPro-700.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "FM Bolyar Pro";
+    src: url('FMBolyarPro-300.woff');
+    src: local('FMBolyarPro-900.woff'), local('FM Bolyar Pro'),
+    url('FMBolyarPro-900.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: "FM Bolyar Pro";
+    src: url('FMBolyarPro-300.woff');
+    src: local('FMBolyarPro-300.woff'), local('FM Bolyar Pro'),
+    url('FMBolyarPro-300.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
